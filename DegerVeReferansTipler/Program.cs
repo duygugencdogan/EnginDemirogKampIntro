@@ -16,6 +16,8 @@ namespace DegerVeReferansTipler
             //Garbage Collector - Adresi hiçbir obje tarafından tutulmayan değerleri yok eder.
             //Yazılımda Sürdürülebilirlik önemlidir.
 
+
+
         }
     }
 }
