@@ -31,5 +31,9 @@ namespace ClassMetotDemo
             musteriManager.MusteriSilme(musteri2);
 
         }
+        //Kurumsal Yazılım Mimarisi
+        //Design Patterns
+        //Best Practices
+        //Solution içerisinde birden fazla proje bulunabilir.
     }
 }
